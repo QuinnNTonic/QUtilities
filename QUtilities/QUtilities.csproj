@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net5.0;netstandard2.1;netstandard2.0</TargetFrameworks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DDD\" />
+    <None Remove="Ardalis.Specification.EntityFrameworkCore" />
+    <None Remove="DDD\Repository\" />
+    <None Remove="DDD\DomainEvent\" />
+    <None Remove="DDD\Aggregate\" />
+    <None Remove="CSharpFunctionalExtensions" />
+    <None Remove="MassTransit" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DDD\" />
+    <Folder Include="DDD\Repository\" />
+    <Folder Include="DDD\DomainEvent\" />
+    <Folder Include="DDD\Aggregate\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Ardalis.Specification.EntityFrameworkCore" Version="6.0.1" />
+    <PackageReference Include="CSharpFunctionalExtensions" Version="2.28.2" />
+    <PackageReference Include="MassTransit" Version="7.3.1" />
+  </ItemGroup>
+</Project>

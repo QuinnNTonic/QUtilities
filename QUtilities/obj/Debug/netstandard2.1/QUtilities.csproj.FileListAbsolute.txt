@@ -1,0 +1,4 @@
+/Users/quinn/Projects/QUtilities/QUtilities/obj/Debug/netstandard2.1/QUtilities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quinn/Projects/QUtilities/QUtilities/obj/Debug/netstandard2.1/QUtilities.AssemblyInfoInputs.cache
+/Users/quinn/Projects/QUtilities/QUtilities/obj/Debug/netstandard2.1/QUtilities.AssemblyInfo.cs
+/Users/quinn/Projects/QUtilities/QUtilities/obj/Debug/netstandard2.1/QUtilities.csproj.CoreCompileInputs.cache

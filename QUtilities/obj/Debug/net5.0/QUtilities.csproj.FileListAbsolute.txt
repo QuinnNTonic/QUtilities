@@ -1,0 +1,11 @@
+/Users/quinn/Projects/QUtilities/QUtilities/bin/Debug/net5.0/QUtilities.deps.json
+/Users/quinn/Projects/QUtilities/QUtilities/bin/Debug/net5.0/QUtilities.dll
+/Users/quinn/Projects/QUtilities/QUtilities/bin/Debug/net5.0/ref/QUtilities.dll
+/Users/quinn/Projects/QUtilities/QUtilities/bin/Debug/net5.0/QUtilities.pdb
+/Users/quinn/Projects/QUtilities/QUtilities/obj/Debug/net5.0/QUtilities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quinn/Projects/QUtilities/QUtilities/obj/Debug/net5.0/QUtilities.AssemblyInfoInputs.cache
+/Users/quinn/Projects/QUtilities/QUtilities/obj/Debug/net5.0/QUtilities.AssemblyInfo.cs
+/Users/quinn/Projects/QUtilities/QUtilities/obj/Debug/net5.0/QUtilities.csproj.CoreCompileInputs.cache
+/Users/quinn/Projects/QUtilities/QUtilities/obj/Debug/net5.0/QUtilities.dll
+/Users/quinn/Projects/QUtilities/QUtilities/obj/Debug/net5.0/ref/QUtilities.dll
+/Users/quinn/Projects/QUtilities/QUtilities/obj/Debug/net5.0/QUtilities.pdb
